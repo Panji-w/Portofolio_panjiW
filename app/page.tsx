@@ -28,7 +28,7 @@ const sertifikasiData = [
     nama: 'Junior Web Developer — BNSP',
     penerbit: 'Badan Nasional Sertifikasi Profesi',
     tahun: '2025',
-    gambar: 'https://images.unsplash.com/photo-1589330694653-ded6df03f754?auto=format&fit=crop&w=800&q=80', // Ganti dengan foto sertifikat Anda
+    gambar: '/', // Ganti dengan foto sertifikat Anda
   },
   {
     nama: 'TOEIC - English Listening & Reading',
@@ -65,7 +65,7 @@ const sertifikasiData = [
             Siap membangun serta menyajikan platform web yang akan memberikan pengalaman digital yang imersif.
           </h1>
           <p className="text-base lg:text-lg text-body font-normal leading-relaxed max-w-[600px] mb-8">
-            Saya seorang Full-Stack Developer dan game developer yang berfokus pada optimalisasi performa kode serta penyajian interface yang efektif dan efisien serta tepat guna.
+            Saya seorang <em>Full-Stack Developer</em> dan <em>Game Developer</em> yang berfokus pada optimalisasi performa kode serta penyajian interface yang efektif dan efisien serta tepat guna.
           </p>
           <div className="flex items-center gap-4">
             <a 
