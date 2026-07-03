@@ -84,10 +84,10 @@ export const projectsData: Project[] = [
     id: '8',
     title: 'Aplikasi penulis novel',
     category: 'website',
-    description: 'Sistem aplikasi berbasis web untuk menciptakan sebuah proses pendaftaran mahasiswa baru yang efektif, efisien dan mudah diaplikasikan, selain daripada data yang tersusun rapih serta mudah diakses, aplikasi ini akan sangat bermanfaat digunakan dikalangan lembaga pendidikan yang jumlah pendaftarnya cukup banyak. Dibangun dengan Laravel dan Filament untuk backend yang kuat, serta MySQL sebagai basis data utama.',
+    description: 'Sistem aplikasi berbasis web untuk membantu penulis dalam membuat, mengelola, dan mengembangkan novel secara lebih terstruktur, efektif, dan efisien. Aplikasi ini menyediakan ruang kerja yang memudahkan pengguna dalam menyusun ide cerita, mengatur bab, mengembangkan karakter, serta menyimpan progres penulisan dengan rapi sehingga mudah diakses kapan saja. Sangat bermanfaat bagi penulis pemula maupun profesional yang ingin mengelola proses penulisan novel dalam satu platform. Dibangun menggunakan Next.js untuk frontend yang interaktif, Nest.js sebagai backend yang andal, serta MySQL sebagai basis data utama.',
     tags: ['next.js', 'nest.js', 'Tailwind CSS', 'MySQL'],
     link: 'https://github.com/Panji-w/Novelist',
-    image: 'Screenshot 2026-07-02 214233.png',
+    image: '/Screenshot 2026-07-02 214233.png',
     status: 'source_code',
   },
 ];
